@@ -1,12 +1,5 @@
 <?php
 
-/*-------------------------------------------------------+
-| Content Management System 
-| http://www.phphelptutorials.com/
-+--------------------------------------------------------+
-| Author: David Carr  Email: dave@daveismyname.co.uk
-+--------------------------------------------------------+*/
-
 if (!defined('included')){
 die('You cannot access this file directly!');
 }

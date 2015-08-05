@@ -1,10 +1,4 @@
 <?php 
-/*-------------------------------------------------------+
-| Content Management System 
-| http://www.phphelptutorials.com/
-+--------------------------------------------------------+
-| Author: David Carr  Email: dave@daveismyname.co.uk
-+--------------------------------------------------------+*/
 require('../includes/config.php'); 
 
 if(isset($_POST['submit'])){

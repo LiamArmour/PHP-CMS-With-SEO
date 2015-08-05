@@ -1,12 +1,4 @@
 <?php
-
-/*-------------------------------------------------------+
-| Content Management System 
-| http://www.phphelptutorials.com/
-+--------------------------------------------------------+
-| Author: David Carr  Email: dave@daveismyname.co.uk
-+--------------------------------------------------------+*/
-
 ob_start();
 session_start();
 error_reporting(0);

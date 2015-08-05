@@ -1,11 +1,4 @@
 <?php 
-/*-------------------------------------------------------+
-| Content Management System 
-| http://www.phphelptutorials.com/
-+--------------------------------------------------------+
-| Author: David Carr  Email: dave@daveismyname.co.uk
-+--------------------------------------------------------+*/
-
 require('../includes/config.php'); 
 
 //make sure user is logged in, function will redirect use if not logged in
